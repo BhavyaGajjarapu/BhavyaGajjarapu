@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey!👋, I'm Bhavya
 
-<!--
-**BhavyaGajjarapu/BhavyaGajjarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Engineer | Curious Mind | Lifelong Learner  
 
-Here are some ideas to get you started:
+💡 I’m an AI Engineer passionate about building **intelligent systems** that make data useful and interactive.  
+I enjoy exploring the intersection of **AI, creativity, and problem-solving** — always trying to turn ideas into working prototypes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ A Little About Me
+- 🧠 Love experimenting with **AI/ML models**  
+- 🎧 Can spend hours tinkering with **AI**  
+- 📚 Always reading or learning something new about **LLMs & embeddings**  
+- ☕ Runs on Water + curiosity  
+
+---
+
+## 🛠️ Tech Vibes
+- **Languages**: Python, SQL  
+- **Frameworks**: Flask, FastAPI  
+- **AI/ML**: Hugging Face, LLM's, Transformers, GPU, PyTorch, TensorFlow  
+- **Databases**: Azure, MySQL  
+
+---
+
+## 🎉 Fun Facts
+- 🔮 Believe AI should feel like **magic but with math**  
+- 🕹️ When I’m not coding, you might find me exploring **tech memes or strategy games**  
+- 🚀 Motto: *“Keep building, keep breaking, keep learning.”*  
+
+---
+
+## 📊 GitHub Stats
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaGajjarapu&show_icons=true&theme=radical )  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhavya-gajjarapu-179399219/)  
+- 📧 [Email](gajjarapubhavya@gmail.com)
