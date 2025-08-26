@@ -1,4 +1,4 @@
-# Hey!👋, I'm Bhavya
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=500&lines=Hey!+Bhavya+here,;Wizard+of+AI+by+day%2C+dreamer+by+night)](https://git.io/typing-svg)
 
 ## 🚀 AI Engineer | Curious Mind | Lifelong Learner  
 
