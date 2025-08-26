@@ -10,7 +10,7 @@ I enjoy exploring the intersection of **AI, creativity, and problem-solving** �
 - 🧠 Love experimenting with **AI/ML models**  
 - 🎧 Can spend hours tinkering with **AI**  
 - 📚 Always reading or learning something new about **LLMs & embeddings**  
-- ☕ Runs on Water + curiosity  
+- ☕ Runs on Water + Music + curiosity  
 
 ---
 
