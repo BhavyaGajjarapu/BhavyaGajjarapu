@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=500&lines=Hey!+Bhavya+here,;Wizard+of+AI+by+day%2C+dreamer+by+night)](https://git.io/typing-svg)
-## 🚀 AI Engineer | Curious Mind | Lifelong Learner  
+## 🚀 AI Engineer | Curious Mind | Lifelong Learner
 
 💡 I’m an AI Engineer passionate about building **intelligent systems** that make data useful and interactive.  
 I enjoy exploring the intersection of **AI, creativity, and problem-solving** — always trying to turn ideas into working prototypes.  
